@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481976921139",
+    "project_id": "meus-carros-d5894",
+    "storage_bucket": "meus-carros-d5894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481976921139:android:24cacfbfe0355ea4814746",
+        "android_client_info": {
+          "package_name": "com.yasmim.meus_carros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481976921139-liqntc69d7nep7ulh6o9q1i3t14qe531.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasmim.meus_carros",
+            "certificate_hash": "a9dce931730209a6c0d28773e6fae33f0fd85440"
+          }
+        },
+        {
+          "client_id": "481976921139-kqbc1g96623e0il1fokkjt7nils2cj6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyDbE3tk8tiNFr3_XUieyMVrTjHPI6XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481976921139-kqbc1g96623e0il1fokkjt7nils2cj6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
